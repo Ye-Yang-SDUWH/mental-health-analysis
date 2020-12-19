@@ -4,8 +4,6 @@ Besides, we will explain the detailed process of this experimental design, inclu
 
 
 
-The "Ipynb_checkpoints" is a check node for the jupyter notebook, which can be ignored.  
-
 "c_cnn" is a project for SCM(single chip microcomputer). This project can embed the final model into the SCM. We will explain the model in the following.
 
 "cnn1" is the raw C file for the project above. If you don't have a STC8 SCM, you can use this C file to conduct a simulative experiment.
